@@ -542,6 +542,234 @@ with tab2:
     fig_norm = style_chart(fig_norm, height=280)
     st.plotly_chart(fig_norm, width="stretch")
 
+    # ──────────────────────────────────────────────────────
+    # TAMBAHAN 1 — Jenis Kelamin × Wilayah
+    # ──────────────────────────────────────────────────────
+    st.markdown('<p class="section-header">🚻 Distribusi Jenis Kelamin per Wilayah</p>', unsafe_allow_html=True)
+
+    gw_l, gw_r = st.columns(2)
+
+    with gw_l:
+        gw_data = dff.groupby(["Wilayah", "Jenis Kelamin"]).size().reset_index(name="count")
+        fig_gw_bar = px.bar(
+            gw_data,
+            x="Wilayah",
+            y="count",
+            color="Jenis Kelamin",
+            color_discrete_sequence=["#388bfd", "#f0883e"],
+            barmode="group",
+            text="count",
+            title="Jumlah Responden: Gender × Wilayah",
+            labels={"count": "Jumlah", "Jenis Kelamin": "Gender"},
+        )
+        fig_gw_bar.update_traces(textposition="outside", textfont_size=11)
+        fig_gw_bar = style_chart(fig_gw_bar, height=360)
+        st.plotly_chart(fig_gw_bar, width="stretch")
+
+    with gw_r:
+        # 100% stacked — proporsi gender dalam tiap wilayah
+        gw_tot = gw_data.groupby("Wilayah")["count"].transform("sum")
+        gw_data["pct"] = (gw_data["count"] / gw_tot * 100).round(1)
+        fig_gw_pct = px.bar(
+            gw_data,
+            x="pct",
+            y="Wilayah",
+            color="Jenis Kelamin",
+            color_discrete_sequence=["#388bfd", "#f0883e"],
+            orientation="h",
+            text=gw_data["pct"].apply(lambda x: f"{x:.0f}%"),
+            title="Proporsi 100% Gender per Wilayah",
+            labels={"pct": "Persentase (%)", "Jenis Kelamin": "Gender"},
+        )
+        fig_gw_pct.update_traces(textposition="inside", textfont_size=11)
+        fig_gw_pct = style_chart(fig_gw_pct, height=360)
+        st.plotly_chart(fig_gw_pct, width="stretch")
+
+    # Donut per wilayah (3 kolom)
+    wil_list = sorted(dff["Wilayah"].unique())
+    donut_cols = st.columns(len(wil_list))
+    for col, wil in zip(donut_cols, wil_list):
+        wil_df = dff[dff["Wilayah"] == wil]["Jenis Kelamin"].value_counts().reset_index()
+        wil_df.columns = ["Gender", "count"]
+        fig_d = go.Figure(go.Pie(
+            labels=wil_df["Gender"],
+            values=wil_df["count"],
+            hole=0.55,
+            marker=dict(colors=["#388bfd", "#f0883e"]),
+            textinfo="label+percent",
+            hovertemplate="<b>%{label}</b><br>%{value} orang (%{percent})<extra></extra>",
+        ))
+        total_wil = wil_df["count"].sum()
+        fig_d.add_annotation(
+            text=f"<b>{total_wil}</b><br><span style='font-size:9px'>orang</span>",
+            x=0.5, y=0.5, showarrow=False,
+            font=dict(size=14, color="#e6edf3"),
+        )
+        fig_d.update_layout(
+            title=dict(text=wil, font=dict(size=13)),
+            showlegend=False,
+            **CHART_LAYOUT,
+            height=280,
+            margin=dict(t=40, b=5, l=5, r=5),
+        )
+        col.plotly_chart(fig_d, width="stretch")
+
+    # ──────────────────────────────────────────────────────
+    # TAMBAHAN 2 — Jenis Kelamin × Umur
+    # ──────────────────────────────────────────────────────
+    st.markdown('<p class="section-header">🎂 Distribusi Jenis Kelamin per Kelompok Umur</p>', unsafe_allow_html=True)
+
+    gu_l, gu_r = st.columns(2)
+
+    with gu_l:
+        gu_data = dff.groupby(["Umur", "Jenis Kelamin"]).size().reset_index(name="count")
+        fig_gu_bar = px.bar(
+            gu_data,
+            x="Umur",
+            y="count",
+            color="Jenis Kelamin",
+            color_discrete_sequence=["#388bfd", "#f0883e"],
+            barmode="group",
+            text="count",
+            title="Jumlah Responden: Gender × Umur",
+            labels={"count": "Jumlah", "Jenis Kelamin": "Gender"},
+        )
+        fig_gu_bar.update_traces(textposition="outside", textfont_size=11)
+        fig_gu_bar.update_layout(xaxis_tickangle=-15)
+        fig_gu_bar = style_chart(fig_gu_bar, height=360)
+        st.plotly_chart(fig_gu_bar, width="stretch")
+
+    with gu_r:
+        gu_tot = gu_data.groupby("Umur")["count"].transform("sum")
+        gu_data["pct"] = (gu_data["count"] / gu_tot * 100).round(1)
+        fig_gu_pct = px.bar(
+            gu_data,
+            x="pct",
+            y="Umur",
+            color="Jenis Kelamin",
+            color_discrete_sequence=["#388bfd", "#f0883e"],
+            orientation="h",
+            text=gu_data["pct"].apply(lambda x: f"{x:.0f}%"),
+            title="Proporsi 100% Gender per Kelompok Umur",
+            labels={"pct": "Persentase (%)", "Jenis Kelamin": "Gender"},
+        )
+        fig_gu_pct.update_traces(textposition="inside", textfont_size=11)
+        fig_gu_pct = style_chart(fig_gu_pct, height=360)
+        st.plotly_chart(fig_gu_pct, width="stretch")
+
+    # Heatmap Gender x Umur (nilai absolut + persen)
+    heat_gu = dff.groupby(["Jenis Kelamin", "Umur"]).size().unstack(fill_value=0)
+    heat_gu_pct = heat_gu.div(heat_gu.sum().sum()) * 100
+
+    fig_heat_gu = go.Figure(go.Heatmap(
+        z=heat_gu.values,
+        x=heat_gu.columns.tolist(),
+        y=heat_gu.index.tolist(),
+        colorscale=[[0, "#0d1117"], [0.4, "#6e3fa3"], [1, "#bc8cff"]],
+        text=[[f"{v}<br>({heat_gu_pct.iloc[i,j]:.1f}%)"
+               for j, v in enumerate(row)]
+              for i, row in enumerate(heat_gu.values)],
+        texttemplate="%{text}",
+        hovertemplate="<b>%{y}</b> · %{x}<br>%{z} orang<extra></extra>",
+        showscale=True,
+    ))
+    fig_heat_gu.update_layout(
+        title="Heatmap: Jenis Kelamin × Kelompok Umur (n & %)",
+        **CHART_LAYOUT,
+        height=260,
+    )
+    st.plotly_chart(fig_heat_gu, width="stretch")
+
+    # ──────────────────────────────────────────────────────
+    # TAMBAHAN 3 — Umur × Wilayah
+    # ──────────────────────────────────────────────────────
+    st.markdown('<p class="section-header">📍 Distribusi Umur per Wilayah</p>', unsafe_allow_html=True)
+
+    uw_l, uw_r = st.columns(2)
+
+    with uw_l:
+        uw_data = dff.groupby(["Wilayah", "Umur"]).size().reset_index(name="count")
+        umur_colors = {"8 sampai 11 tahun": "#3fb950",
+                       "12 sampai 15 tahun": "#ffa657",
+                       "15 sampai 17 tahun": "#ff7b72"}
+        fig_uw_bar = px.bar(
+            uw_data,
+            x="Wilayah",
+            y="count",
+            color="Umur",
+            color_discrete_map=umur_colors,
+            barmode="stack",
+            text="count",
+            title="Komposisi Umur per Wilayah (Stacked)",
+            labels={"count": "Jumlah", "Umur": "Kelompok Umur"},
+        )
+        fig_uw_bar.update_traces(textposition="inside", textfont_size=10)
+        fig_uw_bar = style_chart(fig_uw_bar, height=380)
+        st.plotly_chart(fig_uw_bar, width="stretch")
+
+    with uw_r:
+        uw_tot = uw_data.groupby("Wilayah")["count"].transform("sum")
+        uw_data["pct"] = (uw_data["count"] / uw_tot * 100).round(1)
+        fig_uw_pct = px.bar(
+            uw_data,
+            x="pct",
+            y="Wilayah",
+            color="Umur",
+            color_discrete_map=umur_colors,
+            orientation="h",
+            text=uw_data["pct"].apply(lambda x: f"{x:.0f}%"),
+            title="Proporsi 100% Umur per Wilayah",
+            labels={"pct": "Persentase (%)", "Umur": "Kelompok Umur"},
+        )
+        fig_uw_pct.update_traces(textposition="inside", textfont_size=10)
+        fig_uw_pct = style_chart(fig_uw_pct, height=380)
+        st.plotly_chart(fig_uw_pct, width="stretch")
+
+    # Heatmap Umur x Wilayah
+    heat_uw = dff.groupby(["Umur", "Wilayah"]).size().unstack(fill_value=0)
+    heat_uw_pct = heat_uw.div(heat_uw.sum().sum()) * 100
+
+    fig_heat_uw = go.Figure(go.Heatmap(
+        z=heat_uw.values,
+        x=heat_uw.columns.tolist(),
+        y=heat_uw.index.tolist(),
+        colorscale=[[0, "#0d1117"], [0.4, "#2d6a4f"], [1, "#3fb950"]],
+        text=[[f"{v}<br>({heat_uw_pct.iloc[i,j]:.1f}%)"
+               for j, v in enumerate(row)]
+              for i, row in enumerate(heat_uw.values)],
+        texttemplate="%{text}",
+        hovertemplate="<b>%{y}</b> · %{x}<br>%{z} orang<extra></extra>",
+        showscale=True,
+    ))
+    fig_heat_uw.update_layout(
+        title="Heatmap: Kelompok Umur × Wilayah (n & %)",
+        **CHART_LAYOUT,
+        height=280,
+    )
+    st.plotly_chart(fig_heat_uw, width="stretch")
+
+    # Grouped bar: semua kombinasi Umur × Wilayah × Gender (bubble chart)
+    uwg_data = (
+        dff.groupby(["Wilayah", "Umur", "Jenis Kelamin"])
+        .size()
+        .reset_index(name="count")
+    )
+    fig_bubble = px.scatter(
+        uwg_data,
+        x="Wilayah",
+        y="Umur",
+        size="count",
+        color="Jenis Kelamin",
+        color_discrete_sequence=["#388bfd", "#f0883e"],
+        size_max=60,
+        text="count",
+        title="Bubble Chart: Wilayah × Umur × Gender (ukuran = jumlah)",
+        labels={"count": "Jumlah"},
+    )
+    fig_bubble.update_traces(textposition="middle center", textfont=dict(color="white", size=10))
+    fig_bubble.update_layout(**CHART_LAYOUT, height=380)
+    st.plotly_chart(fig_bubble, width="stretch")
+
 
 # ═══════════════════════════════════════════════════════════
 # TAB 3 – WILAYAH
