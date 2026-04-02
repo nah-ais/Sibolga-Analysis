@@ -605,12 +605,12 @@ with tab2:
             x=0.5, y=0.5, showarrow=False,
             font=dict(size=14, color="#e6edf3"),
         )
+        layout_d = {**CHART_LAYOUT, "margin": dict(t=40, b=5, l=5, r=5)}
         fig_d.update_layout(
             title=dict(text=wil, font=dict(size=13)),
             showlegend=False,
-            **CHART_LAYOUT,
             height=280,
-            margin=dict(t=40, b=5, l=5, r=5),
+            **layout_d,
         )
         col.plotly_chart(fig_d, width="stretch")
 
