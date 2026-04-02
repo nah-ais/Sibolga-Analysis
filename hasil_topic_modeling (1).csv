@@ -1,0 +1,530 @@
+﻿Umur,Jenis Kelamin,Wilayah,Lembaga,Tanggapan,dominant_topic_id,topic_probability,topic_label
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Takut kerena banjir,2,0.713,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Takut,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Cemas,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Lari,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Menyelamatkan adik, ibu, ayah, dan diri sendiri",3,0.465,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Takut,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,aku mau lari ke posko,4,0.714,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Cemas,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Menyelamatkan adik, mama, dan bapak",5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Takut, cemas",2,0.786,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Takut longsor,2,0.714,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Seram,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Takut,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Cemas,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Lari,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Kulihat rumah dibawa air yang deras,0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Kulihat pohon yang besar dibawa air juga,0,0.878,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Sebelumnya rumah masih kokoh berdiri, lalu setelah banjir rumah bergeser karena air dan tanah, lalu roboh",0,0.914,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Banyak bebatuan yang dating,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Kondisi air dan sungai berubah,1,0.857,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Rumah hancur,0,0.786,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Kayu, batu, sampah, sungai hancur, pasir, dan longsor",0,0.905,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Banyak orang terluka,3,0.381,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Sebelum bencana banjir kondisinya indah, banyak tanaman, bunga-bunga, lalu setelah banjir banyak kayu, batu, rumah hancur dan tidak indah lagi",0,0.697,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara hujan,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara petir,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara air,1,0.785,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara angin,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara batu,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya mendengar suara hujan deras,1,0.555,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya mendengar suara air deras,5,0.893,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya mendengar suara banjir menghancurkan rumah,5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya mendengar suara rumah roboh dan hanyut dibawa air,0,0.508,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara kayu,0,0.381,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Suara air,1,0.785,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Aku bertemu sama teman-teman, aku bercerita tentang banjir",2,0.914,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Aku minum air putih,5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Aku makan nasi dan supermi,0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Cerita dengan teman, saudara, orangrua, dan keluarga lain",2,0.587,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Makan mie, telur, kerupuk, dan air",1,0.539,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Ingin bertemu teman dan menceritakan sama teman,2,0.632,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Ingin bertemu nenek dan orangtua untuk bercerita,1,0.877,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya merasa tidak nyaman makan ikan lele,6,0.508,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya merasa tidak nyaman minum air putih,5,0.877,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan supermi,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Cerita ke teman,2,0.381,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan mie dan merasa takut sakit perut,6,0.561,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Minum air putih,5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit bahuku,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Kali lari sakit kali bahuku,5,0.428,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Capek,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Keringat,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Pegal,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Gatal-gatal,4,0.786,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Pegal,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Kecapean,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit pegal,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Merasa sedih, takut, khawatir, tidak senang hancur",6,0.905,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Saya merasa hancur karena rumah tidak berdiri kokoh,0,0.829,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Saya merasa tidak nyaman kalau datang hujan, petir, badai",5,0.517,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sedih karena rumah teman hancur,0,0.628,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit hati karena rumah guruku hancur,0,0.857,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Aku tidak senang karena rumah tetangga hancur,0,0.828,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Sedih, takut, khawatir, tidak senang",6,0.893,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit perut,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit pinggang,6,0.452,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Ingin tidur karena pinggang sakit,6,0.69,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit perut karena berlari,6,0.626,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Sakit perut karena tidak makan pagi,6,0.877,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Sakit pegal, capek",6,0.828,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Pinggang sakit, pegal",6,0.857,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Gatal,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Pinggang terasa sakitt karena pegal,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Main HP,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Minum,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Bersih-bersih rumah,4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Cebok,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Belajar/menulis, dll",3,0.381,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Belajar,3,0.571,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Main game,4,0.786,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Main bola,1,0.536,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Minum,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Cuci piring,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Angkat air,5,0.786,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Mandi,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Makan,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Menolong,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Belajar,3,0.571,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,Membersihkan rumah,3,0.786,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Untuk lari-lari, jalan, membantu orang, untuk merasakan sakit",4,0.657,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Main-main, menendang, memijak, berjalan, dance",4,0.524,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Kakiku terasa sakit, untuk lari, untuk main-main",4,0.707,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Sibolga Utara,WVI,"Lari, main-main, jalan",4,0.586,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Takut lalu kami lari ke hutan lalu tidur di kuburan,4,0.286,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Saya takut saat banjir dating aku nangis ketakutan, dan aku lari bersama teman dan keluarga. Sebelumnya hujan deras, olehkarena itu saya tidak sekolah",2,0.413,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Aku lari ketempat aman, aku tidak ke sekolah, aku lari ke zona aman",4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Takut, sedih, cemas",6,0.828,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Saya takut air  deras karena saya takut ayah saya di laut ketakutan dan saya berlari kencang dan selamat,2,0.934,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Melihat kayu, batu, pasir, dan tanah",0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Aku melihat banjir dan melihat kayu tumbang, lalu air besar sekali, dan pohon tumbang",0,0.939,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Kayu tumbang batu bersuara, dan gelap gulita",0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Waktu sudah kejadian aku melihat ada yang berbeda seperti rumah yang ada, sudah tidak ada dan jalan rusak, sungai semakin rendah dan jorok",0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Air besar dan berwarna batu hilang dan suasana buruk dan pemandangan aneh dan mengerikan sampai hancur rumah dan pohon tumbang manusia terderet di air besar dan dasyat.,0,0.95,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Suara yang membuat saya takut adalah suara hujan deras, angin kencang, suara air sungai yang membesar dan suara petir",1,0.957,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Suara batu, petir dan banjir",1,0.857,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Suara batu, suara petir, dan suara angin",1,0.914,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Saya mendengar hujan deras, suara batu, dan petir banjir air besar dan air mengerikan",1,0.412,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Suara batu, hujan, petir dan angin kencang",1,0.905,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Aku mendengar hujan dan kayu pertumbangan aku ketakutan,5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Bertemu dengan Tuhan dan makan ayam, ikan sambal kecap dan kerupuk",1,0.893,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Mama,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Aku ketemu kawanku dan makan indomie kesukaanku,6,0.608,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Saya pernah makan nasi goreng, air putih da saya pernah cerita tentang saya Tuhan di dalam hati dengan keluarga",0,0.643,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Kakak ( Cerita Banjir), makan roti dan nasi",0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Saya berdoa kepada Tuhan agar kami di selamatkan dari Bencana pada saat itu kami makan mie dan aku ingin bertemu dengan teman,2,0.656,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Bahu saya sakit karena air besar dan saya pun merasa kesakitan seperti patah pinggang,6,0.525,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Sakit dan pegal,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Bahu saya terjadi sakit, lemas dan pegal",6,0.536,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Kesakitan karena tertimpa longsor,2,0.714,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Sakit hampir kenak kayu dan pegal,6,0.509,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Dingin sakit bahu ingin di kusuk,6,0.785,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Hati saya sedh dan hancur hati dan marah sedikit,0,0.857,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Takit, sedih, dan tidak senang",6,0.714,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Aku sedih mendengar rumah kawanku hancur,5,0.433,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Sakit ingin mati dan ingin melihat rumah tapi tidak bisa,0,0.643,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Sedih, tidak senang dan takut",6,0.785,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Sesudah bencana hati saya merasa sedh dan takut saya sedih melihat rumah dan jalan hancur,0,0.691,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Saya merasa pinggang saya sakit dan pegal dan perut saya terasa lapar dan sakit,6,0.914,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Pinggang hampir patah, perut sakit ingin buang air besar tapi tidak bisa",6,0.636,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Sakit perut,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Pinggangku sakit, perutku kesakitan dan aku menangis",6,0.785,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Saya sakit perut karena saya buang air besar,6,0.455,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Tangan kesakitan sekali,2,0.713,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Baru kesakitan dan tidak bisa bergerak,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Sakit dan kedinginan,6,0.714,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Tangan saya untuk makan, mandi, main game, dan disuruh oleh mama dan bapak",4,0.934,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Makan, mandi, main game, dan cebok",4,0.789,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,"Buat makan, minum es, dan mengambil sesuatu",4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Angkat air dan main,5,0.593,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Kakiku kesakitan maling barang,6,0.785,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Lari terinjak paku,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Untuk jalan-jalan,4,0.714,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Untuk menendang bola dan jalan kemana-mana,1,0.857,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Kaki saya sakit karena kecapean dan saya istirahat dengan kaki saya,4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Sibolga Utara,WVI,Lari,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Takut,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Sedih,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Cemas,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Nangis,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Saya merasakan takut, sedih, cemas",6,0.857,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Saat dating banjir atau longsor di pikiran saya merasa takut, cemas, dan lain-lainnya",2,0.914,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Takut dan pusing memikirkan rumah rusak,0,0.616,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Takut longsor, takut air besar, takut kehilangan orang tua",2,0.77,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Rumah roboh,0,0.786,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Kayu,0,0.571,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Batu,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Tanah,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Tiang jatuh,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Barang-barang orang hanyut,6,0.449,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Berubah semua dari yang sebelumnya banyak rumah, lalu sekarang berkurang, lalu banyak batu dan tanah",0,0.535,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Saya melihat setelah selesainya banjir bandang, rumah banyak roboh/hancur, batu-batu yang besar berserakan, barang-barang berhanyutan, dll.",0,0.466,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Waktu kejadian alam saya mendengar air sungai sangat deras, batu-batu yang hanyut, hujan yang sangat deras, tanah longsor, dll",1,0.592,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Suara sungai mulai terdengar besar dan batu-batu yang ada di sungai bergerak dekat rumah sungai mulai luas,1,0.661,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Hujan, air, suara batu, suara angin, suara petir",1,0.929,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Ingin nangis karena takut suara hujan, suara angin",1,0.914,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Aku ingin menemukan atau bercerita kepada teman, Tuhan, Guru, orangtua, saudara agar kita lega",2,0.586,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Makanan yang sudah kami makan saat bencana kemarin yaitu sup, indomie, nasi, ikan, mie, sayur",2,0.515,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Saya ingin ketemu sama saudara, dan saya ingin memberi tahun kepada saudara  tentang kejadian saat itu.",2,0.922,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Makanan pada saat kejadian itu adalah indomie, nasi, roti, dan lain-lain, saya rasa makanan itu enak",2,0.928,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Pegal,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Gatal-gatal,4,0.786,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Sakit,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Pada saat itu, bahu saya terasa pegal, sakit, dan merasa capek, karena menyandang tas yang besar",6,0.905,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Setelah bencana bahu mulai terasa sakit karena tidak sempat tidur nyenyak karena tidak tidur di Kasur,6,0.546,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Sedih, takut kehilangan orangtua/adik",6,0.382,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Gelisah,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Tidak senang,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Takut sewaktu datang hujan,5,0.785,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Saya merasakan hati saya sedih, merasa takut, dan pedih karena melihat semuanya pada saat kejadian dan selesai kejadian",6,0.522,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Ingin menangis karena mendengar sibolga tidak selamat lagi, sangat sedih mendengar perkataannya ingin mendoakan agar tidak terjadi yang tidak diinginkan",5,0.905,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Saya merasakan pingga saya sakit dan perut saya pedih karena lapar,6,0.857,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Terasa seperti ingin datang mens yang belum pernah dirasakan, ternyata karena belum makan dari pagi terasa sakit banget",6,0.622,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Tanganku terasa sakit karena memegang barang-barang atau baju untuk mandi,6,0.74,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Untuk makan,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Tangan untuk cebok,2,0.713,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Sakit,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Kedinginan,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Pegal,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Kesemutan,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Pada saat itu saya merasakan tangan saya terasa pegal, sakit, lelah karena mengangkat barang, dll.",6,0.607,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,Disuruh ngangkat air,4,0.714,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Mengangkat batu, membantu membereskan rumah, mencuci piring",0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Pada saat itu kaki saya terasa sakit, pegal, karena berlari saat kejadian bencana alam",4,0.362,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Capek lari, kakiku sakit, kakiku terluka",4,0.877,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Sakit, terluka terkena duri, berlari, mengangkat barang",4,0.893,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Sibolga Utara,WVI,"Berjalan membantu orangrua, orang lain, berlari/perlombaan lari karena mulai naik, main-main dengan teman, berjalan-jalan ke sekolah",4,0.432,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Agak sedikit santai,3,0.714,Tindakan Evakuasi & Respons Bencana
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Rumah-rumah tidak ada lagi,0,0.786,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,"Suara sungai berbunyi, batu bergetar-getar",1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Suara hujan,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Suara batu,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Suara petir,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Mau bertemu keluarga,2,0.714,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Indomie,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Senang,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Tidak ada,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Takut (jantung deg-deg an) dan khawatir,6,0.714,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Tidak kenapa-kenapa,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Tangan saya terkilir,4,0.571,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Laki laki,Sibolga Utara,WVI,Kakiku tidak kenapa-kenapa,6,0.828,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Saya ingin menyelamatkan orang tua,2,0.506,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Handphone hilang,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,"Menyelmatkan orang, jadi super hero",3,0.571,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Menyelamatkan orang,3,0.714,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,"Saya pasrah jika hari ini akan mati, ternyata saya selamat. Aku merasa ketakutan dan akan hanyut dan terbawa air deras. Aku tidak takut lagi, masih berani dan tenang.",2,0.943,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Banyak kayu,0,0.571,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Garoga kosong,5,0.786,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Kosong,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Hancur Garoga,0,0.714,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Kosong,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Orang hanyut,3,0.786,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Teriakan,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Orang hanyut,3,0.786,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Orang hanyut,3,0.786,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Teriakan,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Ada tiang listrik,1,0.714,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,banyak batu,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,banyak kayu-kayu,0,0.786,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,lihat orang hanyut,3,0.828,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Siapapun yang mereka temui akan mereka ceritakan.,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Makan roti,0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Makan ayam,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Makan daging sapi,0,0.714,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Air putih,5,0.785,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Indomie dengan nasi,4,0.785,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,"Perasaannya biasa aja, bosan karna makannya itu-itu terus.",1,0.714,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Lebih banyak merasakan sakit di tangan dan kaki,4,0.857,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,"Tidak nyaman, sering hujan dan angin kencang.",1,0.725,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Karna di tenda takut banjir lagi,5,0.828,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Kondisi dingin,1,0.571,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Tidak merasakan sakit dibagian pinggang dan perut. Sakitnya di tangan dan kaki saja,4,0.614,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,"Tangan sakit, karna pegangan sama apapun agar tidak hanyut.",4,0.572,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,"Kaki sakit, karna menahan untuk bisa pegangan sama apapun agar tidak hanyut.",4,0.553,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Kaki sakit,4,0.786,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Kaki sakit karna main air,4,0.857,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Laki laki,Tapsel,WVI,Kaki sakit karna main bola,4,0.592,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Saya  merasa sedih, takut kehilangan orang tua.",2,0.684,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sedih dan takut,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Merasakan sedih saat banjir datang membawa gelondongan kayu,0,0.922,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Takut kehilangan orang tua, kakak, abang. Resah dan sakit kena kayu",2,0.938,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Merasa sakit hati,0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Gelondongan kayu besar dan air besar,0,0.914,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Waktu rumah indah, sekarang menjadi kayu gelondongan",0,0.877,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Gelodongan kayu besar dan air besar, dulu tidak ada banjir dan kayu besar desa Garoga itu indah",0,0.946,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Melihat kayu gelondongan besar,0,0.857,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Melihat air yang besar, air mengalir terus, kayu-kayu lewat, rumah kami hancur, penghuni Garoga banyak mati, sekarang warga Garoga gak banyak lagi.",0,0.955,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Dulu saya sangat senang, garoga banyak pohon hijau, sekarang hancur berkeping-keping.",0,0.877,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Banyak kayu,0,0.571,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Garoga kosong,5,0.786,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Kosong,5,0.571,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Hancur Garoga kosong,5,0.562,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Berita tentang banyak orang mati, ternyata hoax",2,0.857,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Mendengar teman selamat,2,0.412,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Mendengar orangtua bersedih,5,0.46,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Saya merasa sedih, takut kehilangan orang tua.",2,0.684,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sedih dan takut,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Merasakan sedih saat banjir datang membawa gelondongan kayu,0,0.922,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Takut kehilangan orang tua, kakak, abang. Resah dan sakit kena.",2,0.934,Dampak Kerusakan & Kebutuhan Dasar
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Semoga buku-buku untuk sekolah segera datang.,4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Semoga banjir tidak datang lagi, saya mau lihat garoga seperti dulu lagi banyak pohon hijau.",0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Saya mau uang untuk bantu orangtua membeli kebutuhan rumah.,3,0.856,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Saya akan ceritakan kepada bapak desa, ibu bapak bobby.",5,0.878,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Makan roti,0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Makan ayam,1,0.786,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Makan daging sapi,0,0.714,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Air putih,5,0.785,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Indomie dengan nasi,4,0.785,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Makan nasi aja dan air putih, akhirnya bisa makan lagi.",0,0.905,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Makan nasi dengan sayur dan air putih.,0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Perasaannya biasa aja, bosan karna terlalu sering makan yang sama.",1,0.857,"Keluhan Fisik (Sakit, Pegal, Capek)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sakit karna pegal saat banjir.,6,0.828,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sakit karna tidur di tenda.,5,0.286,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sakit karna kena dorong-dorongan kayu saat banjir,5,0.532,Korban & Kondisi Sekitar Pasca-Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Merasa sedih dan takut,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,"Sakit hati, karna banjir",0,0.828,"Reaksi Emosional (Takut, Sedih, Cemas)"
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Setelah banjir selesai agak lebih tenang karna gak panik lagi macam waktu itu.,3,0.828,Tindakan Evakuasi & Respons Bencana
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Pinggang pegal karna tidur tidak nyaman,6,0.629,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Perut sakit karna banyak makan indomie,6,0.893,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sakit karna pegal,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Sakit karna pegang apapun saat banjir,4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Kaki sakit karna bertahan untuk pegangan saat banjir,4,0.877,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Kaki sakit berjalan jauh saat banjir,4,0.877,Dukungan Sosial & Cerita kepada Orang Lain
+8 sampai 11 tahun,Perempuan,Tapsel,WVI,Kaki sakit karna setelah banjir berjalan jauh,4,0.877,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya  takut, khawatir buku sekolah dan barang kesayangan hanyut semua, takut kelaparan dan takut liat orang-orang hanyut.",3,0.509,Tindakan Evakuasi & Respons Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Takut , gelisah, takut hanyut.",5,0.482,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saat banjir aku sama mama, tapi mamaku hanyut dan meninggal, sampai saat ini jenazahnya belum ditemukan, aku sedih banget.",5,0.893,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saat banjir saya takut sekali, karna orangtua (bapak) saya hanyut, tapi alhamdulillah selamat.",5,0.877,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sedih dan menangis karna orangtua saya hanyut saat banjir dan yang tidak hanyut hanya saya saja.,5,0.661,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Disaat banjir saya tidak bisa melihat bagaimana besarnya air itu, saya berdoa kepada Allah meminta adik saya selamat tetapi tidak bisa, saya menangis melihat adik saya hanyut dan meninggal.",5,0.52,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Pada saat banjir saya takut karna air sudah di depan kami, saya dan keluarga sampai kami semua terdorong kereta (motor). Tapi bersyukur kami sekelurga masih selamat.",2,0.893,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sesudah banjir semua jadi berbeda, semua hancur, rumah kami hancur, sunyi sekali rasanya.",0,0.905,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya mau Kembali lagi kerumah kami yang dulu dan keluar dari tenda supaya bisa Kembali ziarah ke makam nenek saya.,5,0.877,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Setelah banjir saya melihat melihat rumah saya dan teman saya sudah tidak ada lagi, sudah hanyut dan terendam lumpur.",0,0.607,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Setelah tidak banjir, saya mulai senang lagi karna saya sudah berkumpul dengan keluarga saya lagi.",2,0.857,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sesudah banjir saya sangat bersedih karna orang-orang banyak yang hanyut dan meninggal, termasuk rumah orang-orang, jadi kondisinya sangat berbeda.",3,0.943,Tindakan Evakuasi & Respons Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Setelah banjir pinggangku sangat sakit karna banyak tokok kayu.,0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saat banjir dan setelahnya saya Kembali ke Garoga, saya lihat tidak ada lagi rumah kami, sudah hanyut semuanya. Saya juga ingat melihat ayah dan abang saya yang hanyut.",3,0.928,Tindakan Evakuasi & Respons Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya kangen mama sangat kangen mama (dibaca; mamanya hanyut meninggal),5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saat banjir bandang, saya dan orangtua saya sangat takut karna air besar sekali.",5,0.442,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sebelumnya desa yang sangat indah dan bersih, setelahnya tidak ada lagi kampung yang saya lihat setiap hari.",4,0.914,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya mendengar suara air dan kayu-kayu.,5,0.558,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya mendengar ada orang yang berantam dan ada sesuatu suara yang aneh.,5,0.367,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya dengar banyak cerita kalo banyak sekali yang hanyut.,0,0.41,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya dengar bahwa nenek saya sudah gak ada dan mama saya belum ditemukan.,5,0.592,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya mendengar dari orangtua dan saya dengar juga suara longsor.,5,0.419,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya mendengar bahwa kayu-kayu yang hanyut dari PT. Sago.,5,0.483,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya sering dengar suara anjing dan kucing, suara tanah dan suara anak-anak.",1,0.914,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya mau rumah saya cepat diperbaiki, supaya nyaman dan tidak gelisah lagi.",5,0.857,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saat ke puskesmas saya ketemu sama orang dan menceritakan yang saya alami, setiap ke puskesmas ketemu sama orang saya senang kalo bisa diajak main.",2,0.614,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya mau rumah saya cepat diperbaiki agak saya dan keluarga saya bisa Kembali berkumpul.,3,0.877,Tindakan Evakuasi & Respons Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya ingin makan buah, supaya tidak makan itu-itu saja.",1,0.682,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya akan ceritakan ini kepada orangtua saya, pemerintah dan yang kasih kami bantuan.",5,0.829,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sering makan indomie,6,0.828,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Makan ikan kaleng,1,0.486,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Makanan yang sama itu-itu saja, kaya indomie dan sayur.",1,0.828,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Air putih,5,0.785,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Perasaaannya bosan, kadang kurang rasa juga, menunya juga itu-itu saja.",1,0.675,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya merasa pegal dan sakit,6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Badan rasanya sakit semua dan pegal-pegal,6,0.643,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Aku ingin sandaran ke orang, karna merasa sangat dan lelah dan sedih kehilangan.",6,0.632,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sakit hati karna mengalami ini.,0,0.828,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Menyakitkan kehilangan keluarga dan rumah,5,0.828,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya merasa terpuruk, gak tenang dan selalu merasa sedih.",3,0.657,Tindakan Evakuasi & Respons Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya merasa sakit dan berat,6,0.381,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya sakit hati karna banyak kehilangan harta benda.,0,0.828,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sakit hati dan sedih karna gak bisa ketemu dengan kampung halaman yang dulu.,0,0.459,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Menyakitkan karna kehilangan keluarga, jadi sunyi.",5,0.785,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sakit hati karna gak bisa ketemu ayah lagi di pemakaman saat bulan Ramadhan.,0,0.63,"Reaksi Emosional (Takut, Sedih, Cemas)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Setelah kena banjir pinggang saya sakit karna banyak kena tokok kayu.,5,0.558,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sakit, pegal dan pernah sakit selama 1 minggu setelah banjir.",6,0.893,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sakit perut bekas operasi, kambuh lagi karna sempat naik turun setelah banjir, jadi sampai muntah.",6,0.576,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sakit perut, panas, pegal sampai demam.",6,0.829,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sering sakit perut karna kedinginan jadi masuk angin.,6,0.905,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Saya merasa mual, muntah, sakit perut dan sakit pinggang.",6,0.749,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya suka sakit pinggang kalo jalan jauh.,4,0.877,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Tangan pegal karna sering disuruh-suruh orangtua.,6,0.558,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Tangan saya pegal karna sering bawa dan angkatair minum.,6,0.558,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sakit pegal nahan untuk pegangan saat banjir,6,0.857,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sakit, pegal, nyeri",6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Sakit karna harus banyak yang dikerjakan,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Rasanya kram saat mencuci baju,2,0.828,Dampak Kerusakan & Kebutuhan Dasar
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Setelah banjir saya tidak bisa gendong dan main sama adik saya lagi karna adik saya hanyut dan meninggal. Padahal sebelum banjir setiap hari tangan saya pegal gendong adik saya, main dan berantam bersama adik saya. Saya sedih sekali.",5,0.52,Korban & Kondisi Sekitar Pasca-Bencana
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Airnya tidak cocok jadi bikin gatal-gatal,4,0.829,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Kalo mandi agak jauh, jadi kaki pegal. Ambil nasi juga jauh dan disuruh-suruh orangtua.",4,0.795,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,Saya jalan kemana aja yang penting bebas,1,0.406,"Keluhan Fisik (Sakit, Pegal, Capek)"
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Kalo mandi agak jauh, ambil nasi juga jauh.",4,0.914,Dukungan Sosial & Cerita kepada Orang Lain
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Sakit, pegal.",6,0.786,Aktivitas Sehari-hari & Kebutuhan Makan
+12 sampai 15 tahun,Perempuan,Tapsel,WVI,"Rasanya masih sakit, karna jalan jauh dari setelah banjir.",4,0.504,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Setelah kejadian banjir saya merasakan atau berpikiran seperti apa nantinya jika sekolah saya berhenti dikarenakan bencana yang terjadi di wilayah kami. Saya merasa cemas akan kejadian yang menimpa tempat kami ini,3,0.591,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saat banjir terjadi keadaan sekitar itu membuat sedih karena yang awalnya keadaanya baik pada saat banjir menerjang hati hancur, rumah yang tenggelam di banjir dan ladang orang-orang dengan wajah tegang dan panik, sorak sorai ketakutan yang terdengar tangisan plu orang-orang berharap datangnya orang-orang hebat untuk memberi sedikit harapan. Wajah sedh orang tua wajah lelah orang-orang sekitar mengingat yang biasanya pada saat saat itu orang sekitar melakukan kegiatan dengan wajah hangat bahkan kadang canda tawa yang mengiri saat itu semuanya hanya memiliki harapan pada sang pecipta",3,0.981,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Pikiran betul-betul campur aduk rasanya pikaran berat, seperti pikiran gimana rumahnya yang sudah dibawak banjir, mau tidur dimana, baju semuanya pada basah, orang tua gimana, orang-orang gimana, mau sekolah gimana. Setalah saat ini? Aku bersyukur pada Tuhan hingga saat ini masih sehat, kuat dan merasa lebih baik.",3,0.964,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Disaat terjadinya bencana saya merasa sedih, takut dan cemas tepat pada tanggal 25 november 2025 kami sangat membutuhkan beras, karena tidak sempat  membawa beras yang sudah teredam dirumah karena banjir bandang surut selama 4 hari. Setelah surut kami sangat capek membershkan lumpur yang setinggi paha selama 3 minggu baru bersh.",6,0.55,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya merasakan pasca bencana banjr keadaan ekonommi/ keuangan keluarga kami menjadi terhambat karena akses jalan tertutup di daerah anggoli kami sekeluarga sudah pasrah ada pun bantuan itulah yang kami cukup-cukupkan untuk bertahan hidup.,3,0.928,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saat banjir terjadi yang saya rasakan adalah rasa ketakutan dan kegelisahaan dan sampai saat ini masih ada ketakutan tentang banjir bandang terjadi.,5,0.949,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Perasaan saya saat banjir terjadi adalah cemas, takut, khawatir, gelisah, sedih dan bngung.",6,0.528,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Ekonomi orang tua menurun selama bencana.,3,0.857,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Bahan makanan susah dan semua pada mahal-mahal,3,0.857,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Perasaan saya saat banjir sedang awal banjir, saya merasa cemas dan takut karena genangan air yang hampir malam kian tinggi bercampur dengan gelondongan kayu-kayu kecil dan sedang yang datang dari belakang rumah ditambah dengan campuran air dan lumpur.",0,0.844,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Semenjak bencana kebun nenek saya rusak dan tumbang(sawitnya) dan saat itu saya sedih karena harapan satu-satunya kebun sawt itulah untuk melanjutkan pendidikan saya dan akhirnya saya tidak lanjut kuliah.,6,0.946,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Pada saat banjir, saya sangat sedih, gelisah, dan ketakutan karena saya sangat merasakan dampak dari bencana banjir karena posisinya saya dengan keluarga telah terkepung banjir tersebut dan menyebabkan rumah saya hanyut dan seluruh isinya.",5,0.934,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Setelah banjir saya gelisah memikirkan keluarga yang terkena longsor dan tidak punya tempat tinggal lagi.,0,0.704,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saat banjir datang banyak genangan air, banyak yang merenggut nyawa, melihat banyaknya lumpur dan pohon-pohon tumbang",0,0.934,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Dari lingkungan yang banyaknya pohon dan tanaman kini mati karena bencana. Tapi semua yang saya lhat adalah bahwa kita jangan lagi mengotori lngkungan, karena sudah cukuplah bencana banjr yang melanda cinta lingkungan sehat.",4,0.934,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Yang berubah saya lihat yaitu dulunya kami memiliki tempat tinggal sendiri, dan sekarang telah tidak ada lag, dan yang dulunya kami bisa sekolah disekolah yang layak, tapi sekarang menjadi belajar di posko.",0,0.421,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Melhat orang disekitar hampir seperti kehilangan harapan situas yang tegang, tanah yang biasanya saat pagi terada lembab, saat itu di penuh air kotor barang-barang yang terbawa arus banjir, orang-orang dewasa yang berusaha melawan arus demi sedikit harapan, sedikit demi sedikit, satu persatu tempat yang awalnya untuk berteduh, tempat yang awalnya terasa nyaman terpaksa ditinggal sementara hanya untuk keselamatan setelah arus itu membawa segala yang tidak seharusnya ia bawa, di penuhi dengan tatapan penuh rasa gelisah, bagaimana keadaan selanjutnya akan dilalui, jika tempat sudah tidak seperti biasanya dinding yang sudah penuh dengan lumpur lantai yang licin dan kotor harapan itu hanya sedikit.",6,0.707,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kondisi lingkungan yang dipenuhi pasir dan lumpur disepanjang jalan maupun rumah setelah sebelumnya sangat bersih tanpa adanya pasir dan lumpur,3,0.939,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Setelah banjir bandang terjadi sangat banyak yang berubah banyak rumah yang hancur termaksud sekolah kami yang hancur jadi kami sekolah pun sangat darurat sekali, orang-orang yang kehilangan rumahnya harus rela mengungsi diposko pengungsi.",3,0.952,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Sesudah banjir saya melihat lngkungan saya semakin kotor dan sampah ada dimana-mana.,0,0.893,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Ketika banjir terjadi perubahan yang terjadi antara lain, keadaan sekitar yang sudah hancur, bangunan yang bagus jadi jelek, pepohonann bertumbangan, air jernih menjadi jorok, dan perumahan yang roboh dan hancur",3,0.388,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Dari sebelum terjadinya banjir yang berubah yaitu, tempat yang dulunya ndah, berkumpul bersama, kami tidak ada lagi karena habis di terjang oelh arus banjir yang kuat yang menyebabkan tempat lain rusak parah.",2,0.949,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Dulu desa kami sangat indah pemandangan yang bagus tetapi sekarang semuanya hancur total akibat diterjang banjir bandang,0,0.618,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Sesudah terjadi banjir dibeberapa bulan yang lalu yaitu, banyak rumah saudara yang rusak karena banjir dan karena pohon-pohon yang tumbang akibat longsor.",0,0.946,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya melihat orangtua jadi susah mencari pekerjaan dan tempat-tempat sekitar pada rusak akibat banjir,0,0.922,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya melhat perubahaan yang ada di lingkungan seperti adanya kegiatan atau kebersamaan antara sesama, saling membantu dalam keadaan susah dan bisa bertemu lagi dengan teman-teman dan keluarga dalam keadaan sehat.",3,0.491,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Yang saya dengar terjadi pada saat bencana ada beberapa saudara yang menjadi korban jiwa akibat terjadinya longsor,3,0.56,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya dengar tentang mikirkan tempat tinggal untuk bernaung, karena rumah kami telah hancur dengan adanya bencana",0,0.57,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya dengar setelah bencana ini adalah adanya keluarga yang kehilangan rumah dan juga banyaknya korban jiwa di berbagai tempat atau daerah,3,0.939,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya dengar bagaimana kondisi sekolah, bagaimana nanti untuk melaksanakan ujian UKK dan Ujian Sekolah lainnya",4,0.893,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya dengar menurunnya/ sulit mendapat pekerjaan terhalang akibat bencana hilangnya rumah warga,0,0.914,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Banyaknya rumah-rumah yang rusak parah dan ada juga yang kehilangan banyak nyawa, keluarga bahkan teman-teman",0,0.537,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Masih gelap, tapi suara tekanan dari segala arah saling bersautan suara tangisan anak-anak yang terasa memiluhkan, suara derasnya hujan dan air yang saling menabrak tanah dan rumah sekitar arus yang memamerkan suaraa kerasnya dan betapa besarnya air pada saat itu, orang dewasa, anak-anak, dan remaja yang menyebut nama-nama yang mereka sayangi untuk salng menguatkan.",5,0.963,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Kekuirangan bahan pokok makanan, apalagi air bersih yang paling di butuhkan masyarakat",3,0.857,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Banyak yang kehilangan tempat tinggal, rumah pada hancur yang paling mirisnya lagi kehilangan nyawa.",0,0.928,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya dengar selama bencana ini banyak orang yang mengeluh akibat bencana kemarin terutama soal tempat tinggal mereka yang banyak hancur dan kerusakan lainnya.,0,0.45,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Kehilangan rumah akibat dibawa banjir, dan kehilangan nyawa akibat longsor",0,0.934,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya dengar setelah banjir bandang terjadi banyak orang yang mengeluh tentang betapa sakitnya yang terjadi saat bencana karena mereka harus kehilangan keluarga ataupun rumah-rumah mereka.,3,0.955,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kehilangan nyawa,0,0.785,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya dengarkan banyaknya yang kehilangan rumah, kehilangan orang tersayang, contohnya korban bencana banjir ekonomi yang mulai tidak membaik",3,0.825,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Kalau dikasih kesempatan untuk bertemu saudara jauh, kalau tentang makanan atau minuman, tidak berkekurangan dan semuanya makanan dan minuman sudah bisa bergantian dan makanan bergizi",3,0.606,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya mau cerita kepada Pak Prabowo, karena saya sedih tidak dapat lanjut kuliah karena kebun sawit rusak orangtua jadi tidak sanggup biayain. Selama 1 bulan hampir setiap hari makan indomie",6,0.743,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Memanggil nama mereka yang salng menyayangi, mengucapkan kata-kata permohonan kepada sang pencipta meneriakkan apapun yang mereka rasakan dengan suara sedih dan senduh",5,0.877,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Setelah banjir saya mau ketemu dengan Kakak. Saya mau menceritakan tentang bahan makanan yang mulai menipis, dan bahan-bahan yang mau dibeli pun tidak ada di jual karena bencana alam.",2,0.943,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya rasakan selama bencana ni saya merasakan makanan yang selama bencana ini saya konsumsi kurang sehat dikarenakan semuanya serba instan dan juga disaat itu kami kesusahan atau kekurangan air bersih.,3,0.957,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya ingin bertemu dengan bapak Bupati pasca banjir Tapteng makanan yang kami makan hanya indomie, telur, itupun makanannya kurang sehat tapi apalah daya kami terpaksa memakannya agar bisa bertahan hidup.",1,0.955,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Untuk kesempatan bertemu, saya ingin bertemu pemerintah Kota dan Daerah. yang dikonsumsi seminggu kemarin yaitu makanan instan, rasanya bosan.",1,0.939,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Orang yang mau diketemui Pemerintah dan orang yang mempunyai jabatan tentang warga Negar. Makanan yang dikonsumsi belum dapat MBG jadi tidak tahu rasanya,3,0.905,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Selama bencana kemarin makan-makanan yang kurang sehat karna bahan pangan semua pada naik dan untuk air minum kami juga susah karna air juga mati,2,0.952,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saudara atau keluarga jauh, untuk menceritakan kondisi saat banjir dan setelah banjir, makanan 1 minggu terakhir ikan laut, telur, sayur dikarena pada saat banjir hampir satu minggu makan mie instan",1,0.601,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saudara jauh atau keluarga saya, saya ingin menceritakan yang saya rasakan saat bencana. Makanan 1 minggu terakhir yang itu-itu saja telur dan kadang ikan.",1,0.952,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya rasakan selama bencana kemarin saya merasa makanan yang saya konsumsi kurang sehat karena makanannya serba instan dan juga air pada saat itu susah.,3,0.594,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Setelah banjir bandang terjadi persediaan makanan kami sangat kritis kami harus berhemat-hemat dan makan telur dan intermi, kalau saya diberi kesempatan saya ingin bertemu dengan Pak Prabowo karna saya ingin menceritakan tentang kondisi kami.",1,0.955,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Setelah terjadi banjir badan saya capek dan lemas akibat membersihkan rumah yang terkenak banjir,5,0.348,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya merasakan badan saya semua sakit karena pada saat kejadian banjir posisinya hujan lebat dan kami disitu tidak ada perlindungan, setelah dari kejadian itu badan saya sakit",0,0.934,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Bahu saya terasa capek, lelah karena setiap hari menimba air sumur",6,0.922,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Pegal-pegal pada badan dikarenakan harus mengambil air dari rumah tetangga karena sumur sudah terisi oleh lumpur sehingga tidak bisa mengambil,3,0.711,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya merasakan selama banjir kemarin bahu dan badan saya cape dan lelah karena kesulitan mengangkat air bersih untuk dipakai di rumah.,0,0.559,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Terasa sakit, berat, lelah seperti menahan beban yang mungkin tak seharusnya saat itu dirasakan rasa sakit yang tak seperti biasa yang harus ditahan karena keadaan dan situasi memaksa harus sanggup merasakannya.",4,0.49,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Capek, pegal, pusng, karena membersihkan rumah yang kenak lumpur mulai dari mencangkul, menyorong, menyekop, memtumbilang selama 3 minggu tiada henti dari pagi-sore.",3,0.439,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Setelah terjadi banjir bandang terjadi yang saya rasakan adalah badan saya terasa sakit, gatal-gatal terus saya juga kurang enak badan, kepala pusing.",4,0.609,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Yang dirasakan bahu yaitu sakit, capek, pegal karena membersihkan rumah sendiri dan membantu memebrshkan rumah orang lain.",3,0.727,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Dari awal banjir sampai sekarang, badan terasa lelah dan capek karena membersihkan rumah dari lumpur yang tebal.",0,0.445,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Capek dan sekaranf tidsk terlalu, sudah lega dengan semua karena semua yang kita rasakan bencana yang pertama kali jadi capek banget.",3,0.914,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Capek karna selama bencana air mati jadi tiap hari mengangkat air untuk dijadikan air minum dan untuk mandi.,4,0.934,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya merasakan pegal-pegal, kelelahan setelah kejadian banjir.",3,0.566,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Perasaan terjadinya banjir, sudah pasti sedih, kenapa? Ya karena banjir membuat saya kebingungan atau susah dalam melanjutkan sekolah saya, banyak impian yang mungkn buat saya bimbang dalam menentukan gimana kelanjutan sekolah.",3,0.521,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya rasakan yaitu kecemasan, risau, dikarenakan putusnya alat komunikasi atau transportasi. Saya merasa sedih karena tidak bisa berkomunikasi kepada keluarga yang jauh.",5,0.487,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Sedih melihat kondisi lingkungan, sedih pada saat banyaknya mendengar sampai ada yang meninggal dan kondisi perekonomian",5,0.934,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Trauma karna bencana ini pertama kali terjadi seperti ini dan banyak memakan korban dan kehilangan keluarga dan juga kehilangan tempat tinggal.,5,0.946,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Sedih banget kehilangan dan yah tentuhnya sedih banget,6,0.785,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya merasa sedih pada saat bencana terjad kemarin karena abang dan kakak saya tidak bisa menghubungi kami karena jaringan pada saat itu hilang beberapa hari dan juga keluarga yang lain sulit dikabarin.,2,0.451,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Masih membekas dipikiran saya adalah pada saat banjir kaya dari pagi belum makan sampai sore pada saat sebelum penyelamatan dan saya disitu kedinginan dan takut gelisah.,6,0.922,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya trauma, pikiran kacau saat bencana saya menangis takut airnya bakalan besar dan merenung-renung gimana keadaan rumah gimana barang-barang rumah apakah masih ada dan tidak.",6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Hati saya sedih melihat orang yang nyawanya hilang karena terkena longsor dan saya cemas akibat tidak boleh menghubungi keluarga karena jaringan tidak ada dan listrik mati,0,0.404,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Perasaan yang saya rasakan setelah banjir bandang terjadi adalah sampai saat in ketakutan yang begitu mendalam saya sangat takut banjir itu terjadi lagi saya sangat sedih karena desa saya banyak yang hancur.,5,0.949,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Perasaan yang saya rasakan dari awak banjir sampai sekarang yaitu sedih dan haru karena banjir yang sangat besar dari sebelum-sebelum banjir yang telah terjadi kini.,5,0.692,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Pada saat banjir yang saya pikirkan, bagaimana perekonomian keluarga pada saat itu, dikarenakan susahnya pencarian pada saat itu.",5,0.441,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Sedih trauma setiap malam saya berdoa agar bencana ini tidak berulang lagi.,6,0.554,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Hancur, sakit, sedih, rapuh, ingin menyampaikan pada siapapun yang saat itu siap namun tak ada yang siap, gelisah yang terasa menghantui dan terus mengikuti.",6,0.914,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Perut saya jadi kelaparan dan pinggang saya kerasa sakit akibat memebrsihkan rumah,6,0.636,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Pada saat setelah banjir sempat mengalami diare tetapi sekarang sudah tidak merasakannya lagi,0,0.567,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Setelah banjir bandang terjadi perut saya terasa sakit karena makanan yang sangat memperhantikan dan pinggang saya sakit karena membersihkan rumah.,3,0.518,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya tidak merasakan apa-apa didalam perut saya,6,0.671,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kelaparan,6,0.571,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Pinggang terasa sakit dan kram, perut yang dipaksa menerima apapun yang ada beras basah yang dimasakan dengan alat seadanya merasakan lapar yang ditahan karena keadaan memaksa, durian tak berasa pun tetap disantap dan kerak nasi dari periuk yang tetap di makan dengan tangan gemetar",4,0.715,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Semenjak saya memakan indomie perut saya menjadi sakit 1 minggu yang lalu saya pergi berobat ke rumah sakit dan sekarang saya sudah sembuh,6,0.55,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Waktu bencana perut sakit semua dimakan apa yang ada Durian, Indomie, Rambutan, Manggis, satu harian mau tidak masuk nasi dan sampai sekarang asam lambung sering terjadi.",6,0.938,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya merasa perut saya sering sakit dan badan saya kurang enak,6,0.905,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya merasa kelaparan dan sakit perut,6,0.829,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Pinggang saya sakit dan perut saya kembung,6,0.857,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya tidak merasakan apa-apa di bagian pinggang dan perut.,6,0.722,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Yang saya lakukan karena air lagi susah saya selalu mengangkat air untuk air minum dan saya juga sering menulis dengan tangan dan mengerjakan pekerjaan lama seperti bersih-bersih,4,0.952,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Sering mengambil ar dirumah tetangga menyuci baju yang terkena lumpur menulis materi pembelajaran,1,0.905,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Membersihkan lumpur/kotoran bekas bencana kemarin selama 2 hari.,2,0.683,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Tangan saya merasa pegal akibat menulis menggunakan paha bukan meja dan saya sekarang lebih sering membersihkan rumah karena rumah terkena banjir dan lumpur,3,0.409,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Membersihkan lumpur di sekolah dan menimbah air sumur,3,0.644,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya menggunakan tangan saya untuk mencangkul tanah bekas bencana, membersihkan lumpur di rumah.",2,0.456,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Menggunakan peralatan-peralatan untuk bersihkan lumpur.,1,0.714,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kalau sekarang yang tangan jadi sering untuk membantu mamak mencuci dan membereskan rumah tapi tentunya tidak paksaan.,0,0.678,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Membersihkan lumpur dan mengangkat kayu yang terbawa arus banjir,4,0.795,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Yang tangan saya pegang setelah banjir adalah lumpur, becek karena membersihkan rumah",3,0.914,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Yang tangan saya pegang setelah banjir adalah lumpur, becek karena membersihkan rumah",3,0.914,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Tangan gemetar karena lelah dan kelamaan diair saat banjir harus mengangjkat kayu-kayu dan membersihkan lumpur yang melebihi lantai dirumah selalu menyentuh sampah dan ranting kayu yang berserakan di dapur , kamar mandi, dan halaman.",4,0.5,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya menggunakan tangan saya pada bencana kemarin untuk membersihkan lumpur-lumpur yang di dalam dan di sekitar rumah saya.,2,0.581,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kegiatan tangan yang sering di lakukan adalah membersihkan dari diri sendiri tanpa ada paksaan.,3,0.893,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Aktivitas yang di lakukan setelah adanya banjir yaitu, membeli kebutuhan di pasar, mengambil air di dekat gunung, mengambil minyak di pom bensin.",3,0.914,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Jalan kaki dari Aek Horsik ke Pandan untuk mencari beras dan membersihkan rumah sampai kaki kenak kaca dan kenak paku karena benda tajam tertutup lumpur.,4,0.533,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kaki saya capek dan letih karena menunggu antrian pembagian beras bulog di gudang tempatnya di pondok batu.,4,0.612,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kaki saya terasa sakit semenjak jalan akses tertutup mulai dari rumah kami rela berjalan kaki sampai ke Pandan demi mengambil beras.,4,0.955,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kaki saya terasa capek karena mengantri beras bulog di Pondok Batu,4,0.63,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Pergi ke rumah nenek untuk mengungsi pada saat banjir,3,0.614,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Kaki saya kerasa capek karena memndahkan barang-barang supaya tidak terkenak banjir dan kaki saya capek karena nunggu bensin yang susah dicari atau di dapatkan.,6,0.348,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Tidak merasakan capek karna cuman jalan,4,0.785,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Melangkahkan kaki ke Sarudik menumpang mobil orang lain agar sampai lebih cepat demi sedikit beras untuk melanjutkan hidup saat itu, ke kebun mengikuti tetangga dan menemani untuk melihat durian agar ada makanan.",3,0.754,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Kesekolah untuk belajar, membawa air ke rumah setelah diambil",0,0.549,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Setelah banjir saya harus berjalan kaki untuk mencari jaringan untuk menghubungi keluarga, dan saya harus berjalan kaki ke Sibolga untuk mengambil beras karena harga beras yang sangat mahal",4,0.952,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,"Saya pergi ke sekolah untuk belajar, dan juga saya sering pergi mengangkat air untuk tujuan mendapatkan air bersih",3,0.548,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Perempuan,Tapteng,WVI,Saya melakukan kativitas mengelilingi keadaan sekitar dan melihat-lihat.,3,0.828,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Cara memulai dari nol,0,0.143,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Takut kejadiannya terulang lagi,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Rumah yang hancur sampai sekarang masih terpikirkan,0,0.857,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,"Yang saya pikirkan saat masa bencana tahun lalu yaitu gimana keadaan rumah kami di kampung entah masih layak ditempati atau tidak karena informasi dari pemerintah bahwa kampung kami dalam zona merah, dan gimana perekonomian kedepannya",5,0.949,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Dulu waktu banjir air masih mudah didapatkan tetapi sekarang sulit,0,0.729,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Pekerjaan orangtua makin sulit didapatkan dan susah,1,0.857,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Ekonomi susah,3,0.714,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,"Yang dulunya sepulang sekolah atau kegiatan lain pulangnya itu ke rumah tetapi setelah bencana ini kami pulangnya ke kontrakan, dan yang dulunya kami tidak kesulitan dapat air bersih, sekarang kami kesulitan dapat atau kekurangan air bersih.",0,0.487,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Yang berubah di hidupku setelah banjir yang dulunya    pulang sekolah langsung ke rumah sekarang harus mengungsi di Posko,3,0.397,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Kabar-kabar orang lain yang terkena bencana yang katanya lebih parah daripada yang di daerah sini,3,0.893,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Sering dengar orangtua ngomong setelah bencana mencari mata pencaharian jadi sulit,1,0.877,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Harus rajin belajar,3,0.571,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,"Kesulitan mencari air, kesulitan mencari uang",1,0.893,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Tidak punya tempat tinggal,0,0.786,"Reaksi Emosional (Takut, Sedih, Cemas)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Saya ingin ngomong dengan orang terpercaya,3,0.381,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Mau cerita kalau semenjak banjir masalah jadi makin banyak,4,0.49,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Mau ketemu dengan kakak dan saudara yang lain karena ingin bercerita tentang gimana keadaan kami selama bencana ini,2,0.934,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,- Pemerintah juga telah menyediakan tempat kami sementara di tenda dan menyediakan makanan dan minuman,3,0.641,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Saya merasa senang karena pemerintah peduli kepada kami,5,0.536,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Sama orangtua bapak/ibu ingin menceritakan bencana banjir ini dan menceritakan semua kejadian yang telah terjadi kepada kami,5,0.939,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Indomie dan telur nasi yang konsumsi akhir-akhir ini,4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Rasanya bahunya cape karena angkat air,5,0.603,Korban & Kondisi Sekitar Pasca-Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Membersihkan rumah sendiri karena anak satu-satunya,3,0.877,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Badan sakit setelah benturan kayu yang terbawa banjir saat tidur di hari terjadinya banjir di pagi hari,6,0.594,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Disaat kami berangkat dari rumah pada masa bencana besoknya itu pundak saya merasa pegal dan badan saya juga karena beban yang kami bawa dan perjalanan yang sangat jauh,6,0.673,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,"Waktu banjir dan longsor rasanya takut terjadi sesuatu yang sangat buruk yang tidak diinginkan, karena banyaknya orang meninggal",2,0.541,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Tidak bisa ketemu teman sekolah selama sebulan,2,0.536,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Tidak bisa merasakan belajar normal seperti orang lain,3,0.857,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Perasaan yang sangat masih membekas adalah kehilangan tempat tinggal dan kehilangan barang-barang yang sangat istimewa yang diberikan orangtua 5 tahun lalu,6,0.946,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,"Saat ini saya merasa bahagia karena saya dan keluarga serta teman-teman dilindungi oleh Tuhan sehingga saat ini dapat bertemu dan saling berkomunikasi, tetapi saya juga di kampung dan perekonomian masih belum pulih",2,0.934,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Tidak ada yang dirasakan yang terganggu,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Terkadang perut sakit karena makan tidak teratur,6,0.731,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Perutnya sering sakit karena makan indomie,6,0.893,Aktivitas Sehari-hari & Kebutuhan Makan
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Makan-makanan siap/cepat saji,3,0.524,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Belajar di sekolah,3,0.714,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Bersih-bersih di rumah,4,0.828,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Terkadang juga memasak,2,0.571,Dampak Kerusakan & Kebutuhan Dasar
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Bekerja dan membantu memberihkan rumah warga dan membatu membersihkan sekolah dan belajar di sekolah,3,0.754,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Membersihkan sisa banjir dengan tangan,3,0.785,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Sering menulis tanpa meja di sekolah,1,0.509,"Keluhan Fisik (Sakit, Pegal, Capek)"
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Tangan jadi sakit karena membersihkan lumpur,4,0.857,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Pada saat bencana jalan kaki dari rumah ketempat pengungsian,4,0.877,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Belanja makanan pada saat bencana tanpa kendaraan,3,0.828,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Ke sekolah dan berangkat kerja bakti membantu membersihkan rumah warga dan bekerja mencari uang,3,0.558,Tindakan Evakuasi & Respons Bencana
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Jalan kaki ke simpang rumah karena jalannya rusak,4,0.552,Dukungan Sosial & Cerita kepada Orang Lain
+15 sampai 17 tahun,Laki laki,Tapteng,WVI,Waktu mati lampu seminggu jalan kaki jauh mengisi daya HP,4,0.857,Dukungan Sosial & Cerita kepada Orang Lain
