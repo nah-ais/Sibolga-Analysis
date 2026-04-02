@@ -400,7 +400,7 @@ with tab1:
         fig_bar.update_traces(textposition="outside", textfont_size=11)
         fig_bar.update_layout(showlegend=False, yaxis=dict(categoryorder="total ascending"))
         fig_bar = style_chart(fig_bar, height=400)
-        st.plotly_chart(fig_bar, use_container_width=True)
+        st.plotly_chart(fig_bar, width="stretch")
 
     # --- Donut chart ---
     with row1_r:
@@ -418,7 +418,7 @@ with tab1:
             font=dict(size=16, color="#e6edf3"),
         )
         fig_pie.update_layout(title="Proporsi Topik", showlegend=True, **CHART_LAYOUT, height=400)
-        st.plotly_chart(fig_pie, use_container_width=True)
+        st.plotly_chart(fig_pie, width="stretch")
 
     # --- Treemap ---
     st.markdown('<p class="section-header">🗂️ Treemap Distribusi</p>', unsafe_allow_html=True)
@@ -443,7 +443,7 @@ with tab1:
         hovertemplate="<b>%{label}</b><br>%{value} dokumen<extra></extra>",
     )
     fig_tree.update_layout(**CHART_LAYOUT, height=380, coloraxis_showscale=False)
-    st.plotly_chart(fig_tree, use_container_width=True)
+    st.plotly_chart(fig_tree, width="stretch")
 
 
 # ═══════════════════════════════════════════════════════════
@@ -472,7 +472,7 @@ with tab2:
             labels={"count": "Jumlah", "topic_name": "Topik"},
         )
         fig_umur = style_chart(fig_umur, height=400)
-        st.plotly_chart(fig_umur, use_container_width=True)
+        st.plotly_chart(fig_umur, width="stretch")
 
     # --- By Gender (grouped bar) ---
     with d2_r:
@@ -493,7 +493,7 @@ with tab2:
         )
         fig_gender.update_layout(xaxis_tickangle=-30)
         fig_gender = style_chart(fig_gender, height=400)
-        st.plotly_chart(fig_gender, use_container_width=True)
+        st.plotly_chart(fig_gender, width="stretch")
 
     # --- Heatmap Umur x Topik ---
     st.markdown('<p class="section-header">🔥 Heatmap Intensitas: Umur × Topik</p>', unsafe_allow_html=True)
@@ -515,7 +515,7 @@ with tab2:
         **CHART_LAYOUT,
         height=300,
     )
-    st.plotly_chart(fig_heat, use_container_width=True)
+    st.plotly_chart(fig_heat, width="stretch")
 
     # --- Normalized by gender (100% stacked) ---
     st.markdown('<p class="section-header">⚖️ Proporsi Topik per Jenis Kelamin (100%)</p>', unsafe_allow_html=True)
@@ -540,7 +540,7 @@ with tab2:
     )
     fig_norm.update_traces(textposition="inside", textfont_size=10)
     fig_norm = style_chart(fig_norm, height=280)
-    st.plotly_chart(fig_norm, use_container_width=True)
+    st.plotly_chart(fig_norm, width="stretch")
 
 
 # ═══════════════════════════════════════════════════════════
@@ -568,7 +568,7 @@ with tab3:
             labels={"count": "Jumlah", "topic_name": "Topik"},
         )
         fig_wil = style_chart(fig_wil, height=400)
-        st.plotly_chart(fig_wil, use_container_width=True)
+        st.plotly_chart(fig_wil, width="stretch")
 
     with w_r:
         # Dominant topic per wilayah
@@ -591,7 +591,7 @@ with tab3:
         )
         fig_dom.update_traces(textposition="outside", textfont_size=10)
         fig_dom = style_chart(fig_dom, height=400)
-        st.plotly_chart(fig_dom, use_container_width=True)
+        st.plotly_chart(fig_dom, width="stretch")
 
     # Heatmap Wilayah x Topik
     st.markdown('<p class="section-header">🔥 Heatmap Intensitas: Wilayah × Topik</p>', unsafe_allow_html=True)
@@ -611,7 +611,7 @@ with tab3:
         **CHART_LAYOUT,
         height=280,
     )
-    st.plotly_chart(fig_hw, use_container_width=True)
+    st.plotly_chart(fig_hw, width="stretch")
 
     # Grouped bar: Wilayah × Umur × Topik
     st.markdown('<p class="section-header">🧩 Komposisi Wilayah × Umur × Topik</p>', unsafe_allow_html=True)
@@ -629,7 +629,7 @@ with tab3:
         title="Sunburst: Wilayah → Topik → Umur",
     )
     fig_wu.update_layout(**CHART_LAYOUT, height=500)
-    st.plotly_chart(fig_wu, use_container_width=True)
+    st.plotly_chart(fig_wu, width="stretch")
 
 
 # ═══════════════════════════════════════════════════════════
@@ -700,7 +700,7 @@ with tab4:
                 **CHART_LAYOUT,
                 height=420,
             )
-            st.plotly_chart(fig_wf, use_container_width=True)
+            st.plotly_chart(fig_wf, width="stretch")
 
     # --- Breakdown pie Umur, Gender, Wilayah ---
     with ec_r:
@@ -736,7 +736,7 @@ with tab4:
             **CHART_LAYOUT,
             height=420,
         )
-        st.plotly_chart(fig_bd, use_container_width=True)
+        st.plotly_chart(fig_bd, width="stretch")
 
     # --- Keyword tags ---
     kw_list = TOPIC_KEYWORDS.get(topic_id, [])
@@ -780,7 +780,7 @@ with tab5:
     st.markdown(f"**{len(display_df)}** baris ditampilkan")
     st.dataframe(
         display_df,
-        use_container_width=True,
+        width="stretch",
         height=480,
         column_config={
             "ID Topik": st.column_config.NumberColumn(width="small"),
@@ -815,4 +815,4 @@ with tab5:
         .sort_values("Jumlah", ascending=False)
     )
     summary["Proporsi"] = (summary["Jumlah"] / summary["Jumlah"].sum() * 100).round(1).astype(str) + "%"
-    st.dataframe(summary, use_container_width=True, hide_index=True)
+    st.dataframe(summary, width="stretch", hide_index=True)
